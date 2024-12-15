@@ -57,3 +57,16 @@ body {
       font-weight:bold;
 }
 
+.hero{
+      padding:2rem;
+}
+.hero .hero-image{
+      max-width:600px;
+      display:block;
+      margin:auto;
+}
+.hero .hero-heading{
+      padding-top: 1rem;
+      text-align:center;
+      color:gray;
+}
