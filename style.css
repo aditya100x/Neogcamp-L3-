@@ -81,14 +81,14 @@ body {
       padding:2rem;
 }
 .hero .hero-image{
-      max-width:600px;
+      max-width:400px;
       display:block;
       margin:auto;
 }
 .hero .hero-heading{
       padding-top: 1rem;
       text-align:center;
-      color:gray;
+      color:black;
 }
 .heading-inverted{
       color:var(--primary-color);
