@@ -65,7 +65,7 @@ body {
 
 .navigation .nav-brand{
       font-weight:bold;
-      font-size:1.1rem
+      font-size:3rem
 }
 .navigation .nav-pill{
       text-align:right;
@@ -80,10 +80,10 @@ body {
 /* Header */
 
 .hero{
-      padding:2rem;
+      padding:4rem;
 }
 .hero .hero-image{
-      max-width:400px;
+      max-width:300px;
       display:block;
       margin:auto;
 }
